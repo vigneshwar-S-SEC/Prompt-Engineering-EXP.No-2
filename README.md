@@ -19,7 +19,8 @@ Your goal is to determine which combination of prompting technique + platform pr
 4.Speed
 
 5.User experience
-
-OUTPUT:
+[text](<EX2 (1).pdf>)
 
 RESULT:
+
+The evaluation of different AI models based on text summarization shows that all models perform effectively, with Gemini and Claude achieving the highest average score of 4.75. The results indicate that advanced prompting techniques improve the quality and accuracy of summarized content.
